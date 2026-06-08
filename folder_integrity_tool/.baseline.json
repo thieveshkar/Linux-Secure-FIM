@@ -1,0 +1,27 @@
+                                                                                                                                                                        
+{
+    "/opt/scan_folder/startup.sh": {
+        "size": 15,
+        "mtime": 1780300834.3089669,
+        "permissions": "0777",
+        "hash": "08e49d47adf72e79964f6955dd448fdf34e05dc176bead9dac92647c366c01fc"
+    },
+    "/opt/scan_folder/122b5c3e98a3d2b7e91760adae349f3ba7aab78299684d61c369405515f61e4d.exe": {
+        "size": 5298176,
+        "mtime": 1780298277.7655027,
+        "permissions": "0644",
+        "hash": "122b5c3e98a3d2b7e91760adae349f3ba7aab78299684d61c369405515f61e4d"
+    },
+    "/opt/scan_folder/newfile.txt": {
+        "size": 0,
+        "mtime": 1780301966.5657015,
+        "permissions": "0664",
+        "hash": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    "/opt/scan_folder/sys_config.txt": {
+        "size": 43,
+        "mtime": 1780300726.1240416,
+        "permissions": "0664",
+        "hash": "63d3f4cb1cf07a9b0af3597a7d1c5d26e2ff86f7d9850d5ae02f3b15fa979c50"
+    }
+}                                                                                                                                                             
