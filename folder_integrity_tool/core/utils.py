@@ -10,7 +10,7 @@ import tkinter as tk
 from tkinter import messagebox
 
 # Global VirusTotal API Key
-VT_API_KEY = "d4f9fce0aeb9b16805ac0121da14146240c2a59206435445aa8e6814b1e2a978"
+VT_API_KEY = "your_personal_virustotal_api_key_here"
 
 # System Paths Configuration
 VAULT_DIR = "/var/lib/file_integrity_secure_vault"
